@@ -1,0 +1,3 @@
+100 Diego Maradonna 1010.0
+200 Hristo Stoichkov 2020.0
+300 Zinedine Zidane 3030.0
